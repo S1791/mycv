@@ -1,18 +1,57 @@
 .header-section {
-  background-color: #4c7031;
-  height: 150px;
+  background-color: #676FA3;
+  min-height: 10rem;
+  padding: 5% 0;
 }
 
 .middle-section {
-  background-color: white;
-  height: 600px;
+  background-color: #EEF2FF;
+  height: 300px;
+  padding: 30px 200px 0;
 }
 
 .footer-section {
-  background-color: #4c7031;
-  height: 150px;
+  background-color:#676FA3;
+  height: 100px;
+  padding: 20px 0;
+}
+
+.icon {
 }
 
 body,
 html {
+  
+}
+
+html {
+  
+}
+
+body {
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+}
+h1, h2, h3 {
+    
+}
+
+h1 {
+font-size: calc(2rem + 1.5vw);
+font-weight: 700;
+
+color: #EEF2FF;
+}
+
+h2 {
+
+}
+
+h3 {
+
+  color:#4c7031
+}
+
+#features {
+
 }
